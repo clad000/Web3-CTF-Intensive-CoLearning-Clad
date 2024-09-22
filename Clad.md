@@ -195,7 +195,7 @@ timezone: Asia/Taipei
 解題:      
   [Lev14-GatekeeperTwo](./Writeup/Clad/script/Lev14Sol.s.sol)  
 
-### 2024.09.22
+### 2024.09.21
 題目: NaughtCoin       
 學習內容      
 目標: 讓 player(你) 的餘額歸零
